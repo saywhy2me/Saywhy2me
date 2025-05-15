@@ -1,4 +1,4 @@
-## Hello! I Am Brandon .
+## Hello! I Am Brandon 🍪
 For consistency sake I have all of my handles as Saywhy2me 👀
 
 💾 Computer Engineer At Sacramento State University<br/>

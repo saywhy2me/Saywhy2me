@@ -1,10 +1,10 @@
 ## Hello! I Am Brandon . This is my Github.
 For consistency sake I have all of my handles as Saywhy2me 👀
 
-💾 Computer Engineer At Sacramento State University
-⌨️ Want to pursue hardware manufacturing 
-🍩 I Enjoy Rendering 3d models and Doing Art
-🎻 I like to play the Cello
+💾 Computer Engineer At Sacramento State University<br/>
+⌨️ Want to pursue hardware manufacturing <br/>
+🍩 I Enjoy Rendering 3d models and Doing Art<br/>
+🎻 I like to play the Cello<br/>
 
 
 # 💻 Tech Stack:

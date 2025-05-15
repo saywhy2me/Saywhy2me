@@ -1,5 +1,5 @@
 ## Hello! I Am Brandon 🍪
-For consistency sake I have all of my handles as Saywhy2me 👀
+## For the Sake of consistency all my handles are Saywhy2me 👀
 
 💾 Computer Engineer @ Sacramento State University<br/>
 ⌨️ Want to pursue hardware manufacturing and MicroElectronics <br/>

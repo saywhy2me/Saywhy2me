@@ -2,7 +2,7 @@
 For consistency sake I have all of my handles as Saywhy2me 👀
 
 💾 Computer Engineer At Sacramento State University<br/>
-⌨️ Want to pursue hardware manufacturing <br/>
+⌨️ Want to pursue hardware manufacturing and MicroElectronics <br/>
 🍩 I Enjoy Rendering 3d models and Doing Art<br/>
 🎻 I like to play the Cello<br/>
 
